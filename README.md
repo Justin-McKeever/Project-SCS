@@ -1,2 +1,1 @@
-# Project-SCS
-Project-SCS or Simple City Simulation, is a simple program that simulates the growth, population, and pollution of a city, given some basic initial data
+SimCity is a simple program created in C++, the purpose of which is to simulate a miniature city based off of an initial data set and some configurable settings. The program reads in data provided by the user to calibrate and create a city for a simulation that would execute for as long as the user specifies. Upon completion the user is given a simple picture of the post-simulation city, as well as additional stat figures like population, and pollution. All this data and snapshots of the simulation are saved in a file which can be accessed via the file explorer for the user to use.
